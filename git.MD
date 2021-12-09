@@ -1,0 +1,3 @@
+git init - When you run git init, a folder called .git is created in your current working directory (the folder you are viewing). This folder contains all the files and metadata used by the Git version control system.
+git add - The git add command adds a change in the working directory to the staging area. It tells Git that you want to include updates to a particular file in the next commit.
+git commit - The git commit command captures a snapshot of the project's currently staged changes. Committed snapshots can be thought of as “safe” versions of a project—Git will never change them unless you explicitly ask it to.
